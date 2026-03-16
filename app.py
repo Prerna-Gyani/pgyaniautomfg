@@ -192,7 +192,7 @@ with tab3:
 
     for step in workflow:
         st.write("✔",step)
-    st.image("/data/workflow.png")
+    st.image("data/workflow.png")
     st.caption("Workflow")
 
 # -------------------------------------------------
